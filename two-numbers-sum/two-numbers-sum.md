@@ -11,8 +11,11 @@
   target sum.
 
 ```js
-  // sample
+
+  // sample input
   nums = [4, 2, 10, 999, 11, -313, 0, -17] 
   target = -7
+  // expected output
   [10, -17]
+
 ```
